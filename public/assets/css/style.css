@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(254, 220, 129);
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.happy-burger{
+    max-height: 255px;
+    margin-bottom: 0px;
+}
+
+ul {
+    list-style-type: none;
+}
